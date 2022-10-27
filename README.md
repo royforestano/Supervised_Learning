@@ -10,3 +10,5 @@ Data Files in Lec15_101_20_2022_data_manip.ipynb on NeurIPS 2022 Ariel Data Chal
 The entire 91392 values for the spectra data for the challenge were given, however, the file was too large to be uploaded here.
 
 3. **Targets:** FM_Parameter_Table: Consists of Planet Temperature, and log traces concentrations for H2O, CH4, CO2, CO, NH3 (91392,6)
+
+The test versions of these files consist of 500 instances rather than 91392.
